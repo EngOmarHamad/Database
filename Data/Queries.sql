@@ -1,0 +1,5 @@
+﻿ SELECT *
+FROM INFORMATION_SCHEMA.COLUMNS
+WHERE TABLE_NAME = N'games'
+
+select * from users
